@@ -1,0 +1,1 @@
+# -PHP_Redirect_function
